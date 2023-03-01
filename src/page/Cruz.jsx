@@ -2,7 +2,9 @@ import React from 'react'
 
 const Cruz = () => {
   return (
-    <div>Cruz</div>
+    <div>
+      This is emman
+    </div>
   )
 }
 
