@@ -3,7 +3,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 const Sidebar = () => {
   return (
-    <Box sx={{width: 300, height: '100vh', boxShadow:3}}>
+    <Box sx={{width: 300, minHeight: '100%', boxShadow:3}}>
         <Box sx={{display:'flex', flexDirection: 'column', justifyContent:"center", alignItems: 'center', py: 4}}>
 
             <Box sx={{display:'flex', justifyContent:"center", alignItems: 'center', p: 4, border: 1}}>
