@@ -3,7 +3,7 @@ import React from 'react'
 const Cruz = () => {
   return (
     <Box>
-      This is emman
+      This is emmanass
     </Box>
   )
 }
