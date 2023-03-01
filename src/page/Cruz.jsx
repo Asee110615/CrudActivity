@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cruz = () => {
   return (
-    <div>Cruz</div>
+    <div>Cru asdsad asds ASDSADaz</div>
   )
 }
 
