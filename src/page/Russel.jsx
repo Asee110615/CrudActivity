@@ -148,6 +148,69 @@ const Russel = () => {
               <Button size="small">Learn More</Button>
             </CardActions>
           </Card>
+          
+          <Card sx={{ maxWidth: 345 }}>
+            <CardMedia
+              component="img"
+              alt="green iguana"
+              height="140"
+              image="https://images.unsplash.com/photo-1677599177535-237307c83dbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+            />
+            <CardContent>
+              <Typography gutterBottom variant="h5" component="div">
+                Desert
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet unde nemo quasi, laudantium illum blanditiis ab doloremque rem incidunt in.
+              </Typography>
+            </CardContent>
+            <CardActions>
+              <Button size="small">Share</Button>
+              <Button size="small">Learn More</Button>
+            </CardActions>
+          </Card>
+
+          <Card sx={{ maxWidth: 345 }}>
+            <CardMedia
+              component="img"
+              alt="green iguana"
+              height="140"
+              image="https://images.unsplash.com/photo-1677599177535-237307c83dbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+            />
+            <CardContent>
+              <Typography gutterBottom variant="h5" component="div">
+                Desert
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet unde nemo quasi, laudantium illum blanditiis ab doloremque rem incidunt in.
+              </Typography>
+            </CardContent>
+            <CardActions>
+              <Button size="small">Share</Button>
+              <Button size="small">Learn More</Button>
+            </CardActions>
+          </Card>
+
+          <Card sx={{ maxWidth: 345 }}>
+            <CardMedia
+              component="img"
+              alt="green iguana"
+              height="140"
+              image="https://images.unsplash.com/photo-1677599177535-237307c83dbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+            />
+            <CardContent>
+              <Typography gutterBottom variant="h5" component="div">
+                Desert
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet unde nemo quasi, laudantium illum blanditiis ab doloremque rem incidunt in.
+              </Typography>
+            </CardContent>
+            <CardActions>
+              <Button size="small">Share</Button>
+              <Button size="small">Learn More</Button>
+            </CardActions>
+          </Card>
 
         </Box>
         
